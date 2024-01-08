@@ -1,6 +1,6 @@
 # Weight file repository for the [DeepMRI-Denoise-vs-Bm3d project](https://github.com/zychen029/DeepMRI-Denoise-vs-Bm3d)
 
-- **The corresponding neural network models can be found in the master branch of the repository.**
+**The corresponding neural network models can be found in the master branch of the repository.**
 
 The weight file M4RawV1.5_Nafnet.pth was obtained by training a model with default parameters, using a batch size of 16, a maximum of 50 iterations, and a learning rate of 0.0001.
 
